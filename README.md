@@ -1,5 +1,5 @@
 # Robot Control Panel
-This project features a web-based control panel for a robot's movement. The interface allows users to command the robot to move in four directions (Forward, Backward, Left, Right) and to stop. The control panel is connected to a database to log each command with a timestamp for tracking and analysis purposes.
+This project features a web-based control panel for a robot's movement. The interface allows users to command the robot to move in four directions (Forward, Backward, Left, Right). The control panel is connected to a database to log each command with a timestamp for tracking and analysis purposes.
 
 ## Features
 ### Control Interface:
@@ -7,9 +7,9 @@ Forward: Moves the robot forward.
 Backward: Moves the robot backward.
 Left: Turns the robot left.
 Right: Turns the robot right.
-Stop: Stops the robot immediately.
 
-![image](https://github.com/user-attachments/assets/3f159d37-907a-44dc-b454-648cecb41b03)
+
+![image](https://github.com/user-attachments/assets/ad3a8291-5b62-41f0-a3b6-c58644611402)
 
 ## Database Integration:
 Each command is recorded in a MySQL database with a timestamp.
